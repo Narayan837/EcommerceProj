@@ -1,0 +1,276 @@
+12:39:45.754 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Narayan\AppData\Local\Temp\testng-eclipse--1639041947\testng-customsuite.xml"
+12:39:46.217 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:39:46.220 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:39:46.223 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.223 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.238 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+12:39:46.248 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+12:39:46.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.251 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.254 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.256 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.256 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.259 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.261 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:39:46.262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:39:46.272 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\AppData\Local\Temp\testng-eclipse--1639041947\testng-customsuite.xml
+
+12:39:46.304 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+12:39:51.492 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:39:51.710 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:39:52.424 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:39:52.432 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:39:54.126 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:39:54.177 [main] ERROR testCases.TC001_RegistrationTest - Test failed...
+12:39:54.177 [main] DEBUG testCases.TC001_RegistrationTest - Debug logs..
+12:39:54.684 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@77c7ed8e: 63 ms
+12:39:54.857 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@460510aa: 172 ms
+12:39:54.883 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@61fafb74: 25 ms
+12:39:54.915 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@25c53f74: 30 ms
+12:39:54.933 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26722665: 17 ms
+12:39:54.956 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@64b70919: 21 ms
+12:39:54.956 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4e31c3ec: 0 ms
+12:45:29.627 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Narayan\AppData\Local\Temp\testng-eclipse-724740924\testng-customsuite.xml"
+12:45:29.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:29.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+12:45:29.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:29.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:29.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:29.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:29.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:29.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:29.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+12:45:29.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+12:45:29.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:29.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:29.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:29.997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:29.997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:29.997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:30.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:30.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:30.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:30.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:30.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:30.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:30.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:30.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:30.004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:45:30.004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:30.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:30.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:30.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:45:30.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:45:30.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\AppData\Local\Temp\testng-eclipse-724740924\testng-customsuite.xml
+
+12:45:30.051 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+12:45:36.397 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:45:36.531 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:45:37.382 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:45:37.387 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:45:39.156 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:45:39.209 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:45:39.687 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2063c53e: 61 ms
+12:45:39.836 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@314c8b4a: 149 ms
+12:45:39.836 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@26d820eb: 0 ms
+12:45:39.849 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4c4f4365: 11 ms
+12:45:39.859 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@78b41097: 9 ms
+12:45:39.875 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@60737b23: 16 ms
+12:45:39.876 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d2a1da3: 0 ms
+10:38:55.989 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+10:39:09.670 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+10:39:11.601 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+10:39:12.353 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+10:39:12.360 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+10:39:14.648 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+10:39:14.714 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+10:47:33.719 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+10:47:39.057 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+10:47:39.186 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+10:47:40.173 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+10:47:40.183 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+10:47:41.945 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+10:47:41.998 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+11:24:03.066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+11:24:10.270 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+11:24:10.476 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+11:24:11.302 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+11:24:11.309 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+11:24:13.127 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+11:24:13.191 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+11:31:33.284 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+11:31:38.679 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+11:31:38.814 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+11:31:39.528 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+11:31:39.536 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+11:31:41.200 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+11:31:41.260 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+11:41:26.199 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+11:41:33.119 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+11:41:33.236 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+11:41:34.093 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+11:41:34.102 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+11:41:35.853 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+11:41:35.902 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+11:46:48.059 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+11:46:53.661 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+11:46:53.778 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+11:46:54.465 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+11:46:54.471 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+11:46:56.150 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+11:46:56.207 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:18:26.136 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+12:18:32.033 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:18:32.199 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:18:32.939 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:18:32.950 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:18:34.656 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:18:34.712 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:18:39.339 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+12:18:41.101 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+12:22:18.778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+12:22:38.558 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:22:42.136 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:22:44.001 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:22:44.028 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:22:51.202 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:22:51.522 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:23:08.691 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+12:23:15.102 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+10:46:11.050 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+10:46:33.061 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+10:46:33.268 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+10:46:35.057 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+10:46:35.067 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+10:46:36.828 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+10:46:36.900 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+10:46:41.846 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+10:55:22.402 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\grouping.xml
+
+10:55:31.953 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+10:55:32.065 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+10:55:33.612 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+10:55:33.619 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+10:55:35.366 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+10:55:35.427 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+10:55:40.657 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+11:56:44.561 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+12:01:04.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+12:01:28.438 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:01:28.573 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:01:29.533 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:01:29.541 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:01:31.307 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:01:31.356 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:01:37.264 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+12:01:39.407 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+12:12:30.574 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\master.xml
+
+12:12:37.040 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:12:40.269 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:12:40.972 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:12:40.985 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:12:42.843 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:12:42.907 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:12:49.804 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+12:12:51.876 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+12:32:53.061 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\EcommerceProj\crossbrowsertesting.xml
+
+12:33:46.115 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:33:46.462 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:33:48.113 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:33:48.121 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:33:53.411 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:33:53.486 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:33:58.709 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+11:18:47.992 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+11:18:48.144 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+11:18:48.904 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+11:18:48.914 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+11:18:51.007 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+11:18:51.063 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+11:18:55.920 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+11:18:57.784 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+11:19:55.301 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+11:19:55.431 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+11:19:56.283 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+11:19:56.290 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+11:19:58.123 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+11:19:58.187 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+11:20:05.081 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+11:20:07.109 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+11:22:11.086 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+11:22:11.240 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+11:22:12.008 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+11:22:12.019 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+11:22:13.903 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+11:22:13.967 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+11:22:20.720 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+11:22:22.635 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+12:32:48.533 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:32:48.691 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:32:49.404 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:32:49.410 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:32:51.305 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:32:51.357 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:32:56.727 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+12:32:58.552 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+12:37:43.525 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+12:37:43.661 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+12:37:44.807 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+12:37:44.815 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+12:37:47.672 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+12:37:47.747 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+12:37:54.854 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+12:37:56.971 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
+13:00:16.926 [main] INFO  testCases.TC001_RegistrationTest - *** Starting TC001_RegistrationTest ***
+13:00:17.092 [main] INFO  testCases.TC001_RegistrationTest - Clicked on MyAccount Link
+13:00:17.773 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+13:00:17.779 [main] INFO  testCases.TC001_RegistrationTest - Providing customer details...
+13:00:19.835 [main] INFO  testCases.TC001_RegistrationTest - validating expected massege...
+13:00:19.900 [main] INFO  testCases.TC001_RegistrationTest - *** Finished TC001_RegistrationTest ***
+13:00:25.098 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest **** 
+13:00:26.950 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest **** 
